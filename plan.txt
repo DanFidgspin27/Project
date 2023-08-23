@@ -1,0 +1,7 @@
+Dark mode design
+
+keep orange and blue accents
+
+grey -> black
+white -> grey
+black -> white

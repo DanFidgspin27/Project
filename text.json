@@ -1,0 +1,5 @@
+[{"id": "001","name": "tim","password":"password"},
+{"id": "002","name": "jim","password":"something"},
+{"id": "003","name": "bob","password":"cheese"},
+{"id": "004","name": "sandra","password":"bigSecret"},
+{"id": "005","name": "steve","password":"creeper"}]
